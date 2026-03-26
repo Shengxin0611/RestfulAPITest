@@ -119,3 +119,4 @@ D:\Codes\DotNetCore\RestfulAPITest\obj\Debug\net10.0\refint\RestfulAPITest.dll
 D:\Codes\DotNetCore\RestfulAPITest\obj\Debug\net10.0\RestfulAPITest.pdb
 D:\Codes\DotNetCore\RestfulAPITest\obj\Debug\net10.0\RestfulAPITest.genruntimeconfig.cache
 D:\Codes\DotNetCore\RestfulAPITest\obj\Debug\net10.0\ref\RestfulAPITest.dll
+d:\Codes\DotNetCore\RestfulAPITest\obj\Debug\net10.0\RestfulAPITest.sourcelink.json
